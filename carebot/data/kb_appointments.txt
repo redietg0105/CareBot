@@ -1,0 +1,9 @@
+Title: Scheduling and Rescheduling Appointments
+
+Patients can schedule a new appointment by calling the front desk or using the online patient portal. Same-day appointments are subject to provider availability and are not guaranteed.
+
+To reschedule or cancel an appointment, patients should provide at least 24 hours notice. Cancellations made with less than 24 hours notice may be subject to a missed-appointment fee, as outlined in the clinic's financial policy.
+
+New patients should arrive 20 minutes before their first appointment to complete intake paperwork. Returning patients should arrive 10 minutes early.
+
+Telehealth appointments are available for follow-up visits and medication check-ins, subject to provider approval. A stable internet connection and a private space are recommended for telehealth visits.
