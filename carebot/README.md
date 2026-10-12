@@ -18,6 +18,8 @@ runnable.
 text I wrote for this demo (scheduling, billing, prescriptions) — not real
 patient or clinical data.
 
+All project code lives in the [`carebot/`](carebot/) folder.
+
 ## Architecture
 
 ```
@@ -47,8 +49,8 @@ user query --embed + cosine similarity--> top-k relevant chunks
 ## Setup
 
 ```bash
-git clone <this-repo-url>
-cd carebot
+git clone https://github.com/redietg0105/CareBot-.git
+cd CareBot-/carebot
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env   # add your OPENAI_API_KEY
@@ -100,4 +102,8 @@ questions instead.
 
 ## Tech stack
 
-Python, OpenAI API (`text-embedding-3-small`, `gpt-4o-mini`), NumPy
+Python, OpenAI API (`text-embedding-3-small`, `gpt-4o-mini`), NumPy, python-dotenv
+
+---
+
+**Author:** Rediet Gelaw · [LinkedIn](https://www.linkedin.com/in/redietgelaw) · [GitHub](https://github.com/redietg0105)

@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated index (rebuild with src/ingest.py)
+carebot/data/index.json
