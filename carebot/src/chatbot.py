@@ -15,9 +15,12 @@ from __future__ import annotations
 
 import os
 
+from dotenv import load_dotenv
 from openai import OpenAI
 
 from retrieval import retrieve
+
+load_dotenv()  # read OPENAI_API_KEY from .env
 
 CHAT_MODEL = "gpt-4o-mini"
 MIN_RELEVANCE_SCORE = 0.25  # below this, treat retrieval as "no good match"
